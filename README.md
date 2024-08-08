@@ -1,29 +1,23 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h3 align="center">
-  Welcome to Moutaz Mousa's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h2> Hey there! I'm Mahmoud.</h2>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
-- 🏢 I'm a Non-graduate mechatronics engineer at EAE&AT
-- 👨‍💻 As a student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 I'm currently learning embeddeed systems.
-- ⚡ I'm passionate about the automotive industry.
-- 👨‍💻 .
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-### Connect with Me :
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<a href="https://linkedin.com/in/moutazmousa" target="_blank"><img src="https://img.shields.io/badge/-Moutaz%20Mousa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="moutazmousa6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Moutaz%20Mousa-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+I'm a communication and electronics student who is passionate about Embedded Software.
 
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+- 🎓 &nbsp; Graduated From : Faculty of Enineering (Electronics and Communication department) - Al Azhar Unversity.
+- Grade : Excellent with honours (Rank : 1st ).
+- 💼 &nbsp; Working as an Embedded Software Engineer at Valeo Egypt.
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel) [Gmail](https://www.mahmoudkarem.me@gmail.com)
+
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
 
 - 💻 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -43,22 +37,21 @@
   
 <br/>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="Mahmoud-Karem" /> </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### 📊 Profile stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Karem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
 
-### 🛠 &nbsp;Tech Stack
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
+<img src="https://imgur.com/rilHVxA.png"/>
+</p>
 
 
 

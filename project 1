@@ -1,1 +1,76 @@
+#define porta (*(volatile unsigned char *)0x3b)
+#define ddra (*(volatile unsigned char *)0x3a)
+#define pina (*(volatile unsigned char *)0x39)
+
+#define portb (*(volatile unsigned char *)0x38)
+#define ddrb (*(volatile unsigned char *)0x37)
+#define pinb (*(volatile unsigned char *)0x36)
+
+#define portc (*(volatile unsigned char *)0x35)
+#define ddrc (*(volatile unsigned char *)0x34)
+#define pinc (*(volatile unsigned char *)0x33)
+
+#define portd (*(volatile unsigned char *)0x32)
+#define ddrd (*(volatile unsigned char *)0x31)
+#define pind (*(volatile unsigned char *)0x30)
+
+#define read_bit(reg,bit)  ((reg>>bit)&1)
+#define set_bit(reg,bit)   (reg|=(1<<bit))
+#define clr_bit(reg,bit)   (reg&=~(1<<bit))
+ 
+#define F_CPU 8000000
+#include <util/delay.h>
+#define segment_port  portd
+#define segment_port2  portc
+void segment_display(char n)
+{
+	const char arr[10]={0x3f,0x06,0x5b,0x4f,0x66,0x6d,0x7d,0x07,0x7f,0x6f};
+	segment_port=arr[n/10];	
+	segment_port2=arr[n%10];	
+	
+}
+int main(void)
+{
+	
+   ddra=0x00;
+   ddrb=0xff;
+   ddrc=0xff;
+   ddrd=0xff;
+   
+  l: char x=0;
+   segment_display(00);
+   _delay_ms(500);
+   
+    while (1) 
+    {
+		
+		if (read_bit(pina,0)==0)
+		{
+			if (x==99)
+			goto l ;
+			
+		  x++;
+		 segment_display(x);
+	     set_bit(portb,0);
+		_delay_ms(300);
+		clr_bit(portb,0);
+		_delay_ms(300);
+		while (read_bit(pina,0)==0);
+		
+		}
+		
+		 if (read_bit(pina,1)==0)
+		{
+			 if (x==00)
+			 x=100;
+			 x--;
+			segment_display(x);
+			  set_bit(portb,1);
+			  _delay_ms(300);
+			  clr_bit(portb,1);
+			  _delay_ms(300);
+		     while(read_bit(pina,1)==0);	 
+		}
+    }
+}
 

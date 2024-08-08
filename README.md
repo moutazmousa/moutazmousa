@@ -13,8 +13,8 @@
 
 I'm a Non-graduate mechatronics engineer studying in EAE&AT.
 
-- 💼 &nbsp; Working as an Embedded Software Engineer at Valeo Egypt.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware. 
+- 💼 &nbsp; Passionate about the automotive industry.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/moutaz-mousa-264327246) [Gmail](https://www.moutazmousa6.me@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
@@ -27,27 +27,21 @@ I'm a Non-graduate mechatronics engineer studying in EAE&AT.
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
 
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
 
   
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="Mahmoud-Karem" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📊 Profile stats
-
-[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Karem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>

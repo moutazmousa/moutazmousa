@@ -11,13 +11,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded Software.
+I'm a Non-graduate mechatronics engineer studying in EAE&AT.
 
-- 🎓 &nbsp; Graduated From : Faculty of Enineering (Electronics and Communication department) - Al Azhar Unversity.
-- Grade : Excellent with honours (Rank : 1st ).
 - 💼 &nbsp; Working as an Embedded Software Engineer at Valeo Egypt.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel) [Gmail](https://www.mahmoudkarem.me@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/moutaz-mousa-264327246) [Gmail](https://www.moutazmousa6.me@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 

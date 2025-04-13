@@ -14,7 +14,7 @@
 
 I'm a Non-graduate mechatronics engineer studying in EAE&AT.
 
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware. 
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , and software testing. 
 - 💼 &nbsp; Passionate about the automotive industry.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/moutaz-mousa-264327246) [Gmail](https://www.moutazmousa6.me@gmail.com)
 
